@@ -11,9 +11,13 @@
     "author": "Mazen Saad",
     "license": "ISC",
     "dependencies": {
+        "@parcel/watcher": "^2.4.1",
         "parcel": "^2.11.0",
         "core-js": "^3.34.0",
         "regenerator-runtime": "^0.14.0",
         "sass": "^1.70.0"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.11.0"
     }
 }
